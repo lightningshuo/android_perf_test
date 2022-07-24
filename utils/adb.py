@@ -1,6 +1,6 @@
 # coding= utf-8
 # NAME: adb.py
-# AUTHOR:SHUO
+# AUTHOR:shuo
 import subprocess
 def get_package():
     """
